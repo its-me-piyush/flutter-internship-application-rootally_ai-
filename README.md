@@ -1,5 +1,9 @@
 # rootally_ai
 
+
+https://user-images.githubusercontent.com/85029306/154634596-923583e4-750e-47fa-92b1-c46080fc421a.mp4
+
+
 A new Flutter project.
 
 ## Getting Started
